@@ -1,11 +1,6 @@
 package me.skylerlayne.model;
 
-/**
- * A simple class to model a notification.
- * 
- * @author Skyler Layne
- *
- */
+
 public class Notification {
 
 	private String title;
