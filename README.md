@@ -1,4 +1,4 @@
-# Apache Camel Kafka Example
+# Apache Camel-Kafka Example
 
 This application is a Spring boot example for connecting Apache Camel to Apache
 Kafka for Producing and Consuming messages.
